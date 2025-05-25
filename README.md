@@ -20,4 +20,4 @@
 ---
 
 📌 **Skills:** Next.js · React · TypeScript · Node.js · Python · Tailwind CSS  
-📫 **Contato:** [bquerinodezoua@gmail.com](mailto:bquerinodezoua@gmail.com) · [LinkedIn](https://linkedin.com/in/seu-linkedin)
+📫 **Contato:** [bquerinodezoua@gmail.com] · [LinkedIn](https://linkedin.com/in/beatrizquerino)
