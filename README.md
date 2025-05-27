@@ -22,3 +22,5 @@
 📌 **Skills:** Next.js · React · TypeScript · Node.js · Python · Tailwind CSS  
 📫 **Contato:** [bquerinodezoua@gmail.com] · [LinkedIn](https://linkedin.com/in/beatrizquerino)
 
+Perfil de portfólio da Beatriz Querino – Dev Júnior Full Stack & Data Analysis
+
